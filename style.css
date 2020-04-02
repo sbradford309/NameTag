@@ -1,0 +1,39 @@
+form{
+    margin: 5px;
+  }
+  section{
+    width: 350px;
+    border-top: solid orange 10px;
+    border-bottom: solid orange 10px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+  }
+  h2{
+    padding: 0px;
+    margin: 0px;
+    font-size: 40px;
+  }
+  p{
+    padding: 0px;
+    margin: 0px;
+  }
+  #top{
+    background-color: orange;
+    padding: 10px;
+  }
+  
+  #name{
+    padding: 30px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+  }
+  
+  #bottom{
+    background-color: orange;
+    padding: 10px;
+  }
