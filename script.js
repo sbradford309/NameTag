@@ -10,7 +10,7 @@ const form = document.getElementById('nameInput')
 form.addEventListener('submit', function(event)
 {
   event.preventDefault();
-  differentName = document.getElementById('newName')
+  differentName = document.getElementById('newName').value
   console.log(differentName)
   name(differentName);
 });
